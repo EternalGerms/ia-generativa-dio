@@ -1,1 +1,8 @@
-# ia-generativa-dio
+Este repositório documenta minha jornada de aprendizado e experimentação no campo da Inteligência Artificial Generativa, com foco nos laboratórios práticos oferecidos pelo Microsoft Learning e explorando os serviços do Azure OpenAI. Através destes módulos, obtive uma compreensão prática das capacidades, aplicações e considerações importantes da IA generativa.
+
+## Resumo dos Laboratórios Explorados:
+- Explore generative AI with Microsoft Copilot: Este laboratório proporcionou uma introdução prática ao Microsoft Copilot, ilustrando como a IA generativa pode ser integrada em ferramentas cotidianas para aprimorar a produtividade e a criatividade. Experimentei a geração de texto, a sumarização de informações e a assistência na criação de conteúdo, percebendo o potencial do Copilot como um valioso assistente inteligente.
+
+- Explore Azure OpenAI: Este módulo me introduziu ao Azure OpenAI Service, a plataforma da Microsoft para acessar modelos de linguagem avançados como a série GPT e modelos de geração de imagens como o DALL-E. Utilizei o Azure OpenAI Studio para interagir com esses modelos por meio de playgrounds intuitivos, permitindo a criação de texto, código e imagens a partir de prompts textuais, sem a necessidade de programação.
+
+- Explore content filters in Azure OpenAI: A responsabilidade é um aspecto crucial da IA generativa. Este laboratório focou nos filtros de conteúdo implementados no Azure OpenAI para mitigar a geração de conteúdo prejudicial ou inadequado. Compreendi a importância dessas ferramentas para garantir a segurança e a ética no uso de modelos de IA generativa em aplicações do mundo real.
